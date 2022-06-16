@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rocket Science on Tanay Kashyap</title>
+    <link>https://iamtanay.github.io/portfolio/tags/rocket-science/</link>
+    <description>Recent content in Rocket Science on Tanay Kashyap</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 May 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://iamtanay.github.io/portfolio/tags/rocket-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rocket Science: Designing a model rocket using OpenRocket and simulating to analyze the results</title>
+      <link>https://iamtanay.github.io/portfolio/projects/project-3/</link>
+      <pubDate>Tue, 31 May 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://iamtanay.github.io/portfolio/projects/project-3/</guid>
+      <description>In this project we designed a model rocket using OpenRocket software to the specifications provided below:
+Wet mass : 700 gms(minimum)
+Body tube outer diameter : 4.5 cm - 6 cm
+Body tube thickness : 0.3 cm
+Body tube material : Cardboard
+Flight computer mass : 150 gm
+Flight computer width : 2.8 cm
+Flight computer length : 16 cm
+Avionics Bay, Nose Cone, Motor Mount, Fins Material : PLA</description>
+    </item>
+    
+  </channel>
+</rss>

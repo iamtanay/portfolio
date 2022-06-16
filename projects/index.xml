@@ -29,5 +29,22 @@ We will use a dataset on hotel bookings from the article &amp;ldquo;Hotel bookin
 This data article describes two datasets with hotel demand data. One of the hotels (H1) is a resort hotel and the other is a city hotel (H2).</description>
     </item>
     
+    <item>
+      <title>Rocket Science: Designing a model rocket using OpenRocket and simulating to analyze the results</title>
+      <link>https://iamtanay.github.io/portfolio/projects/project-3/</link>
+      <pubDate>Tue, 31 May 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://iamtanay.github.io/portfolio/projects/project-3/</guid>
+      <description>In this project we designed a model rocket using OpenRocket software to the specifications provided below:
+Wet mass : 700 gms(minimum)
+Body tube outer diameter : 4.5 cm - 6 cm
+Body tube thickness : 0.3 cm
+Body tube material : Cardboard
+Flight computer mass : 150 gm
+Flight computer width : 2.8 cm
+Flight computer length : 16 cm
+Avionics Bay, Nose Cone, Motor Mount, Fins Material : PLA</description>
+    </item>
+    
   </channel>
 </rss>
