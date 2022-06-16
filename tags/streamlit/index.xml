@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Streamlit on Tanay Kashyap</title>
+    <link>https://iamtanay.github.io/portfolio/tags/streamlit/</link>
+    <description>Recent content in Streamlit on Tanay Kashyap</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jun 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://iamtanay.github.io/portfolio/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Project: Analyzing a Youtube channel using Streamlit</title>
+      <link>https://iamtanay.github.io/portfolio/projects/project-2/</link>
+      <pubDate>Wed, 15 Jun 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://iamtanay.github.io/portfolio/projects/project-2/</guid>
+      <description>In this project we built a dashboard using Streamlit for analyzing a Youtube channel. We made the dashboard to analyze the entire Youtube channel as well as individual videos.
+After building the dashboard we also successfully published it online using Share by Streamlit feature. This is an interactive dashboard which can help you design the same for your Youtube channel.
+The data we used was sourced from Kaggle. We analyzed Ken Jee&amp;rsquo;s Youtube channel and presented the statistics to visualize the data.</description>
+    </item>
+    
+  </channel>
+</rss>
